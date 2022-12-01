@@ -11,15 +11,15 @@ Nossa organização pretende reunir pessoas com a mesma idéia, "colaborar para 
 
 ```kotlin
 object **Eadem Idea** {
- val principios = "Tirar do papel idéias, desenvolver soluções que possam ser acopladas a outros ambientes gerando valor."
+ val principios = "Tirar do papel idéias e gerar valor."
  val objetivo = "Colaborar para um mundo melhor."
  val principaisLinguagens = listOf("Java", "Python", "JavaScript") 
 
+println("Qual seu objetivo?")
 val reader = Scanner(System.`in`)
-print("Qual seu objetivo?")
-var integer:String = reader.nextInt()
-
-    println("You entered: $integer")
+var resposta = reader.nextLine()
+if(resposta.contains("mundo melhor"))
+    println("Venha conosco!")
 
 }
 ```
