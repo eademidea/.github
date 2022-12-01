@@ -2,6 +2,7 @@
 <br>Eadem Idea
 </h1>
 
+
 Eadem Idea é uma organização que tem por objetivo a criação de recursos open source, seja uma biblioteca ou software completo.
 Nossa organização pretende reunir pessoas com a mesma idéia, "colaborar para um mundo melhor".
 
@@ -31,15 +32,11 @@ if(resposta.contains("mundo melhor"))
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
 
 
-
 ---
-
-
 
 [blog]: https://eademidea.blogspot.com
 [youtube]: https://www.youtube.com/channel/UCfU-p5XrS0W4Kp9-8drMVFg
 
-<br>
 
 #### Rede Sociais!
 
