@@ -5,9 +5,8 @@
 Eadem Idea é uma organização que tem por objetivo a criação de recursos open source, seja uma biblioteca ou software completo.
 Nossa organização pretende reunir pessoas com a mesma idéia, "colaborar para um mundo melhor".
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre nós
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre nós 
 
 
 
@@ -21,7 +20,7 @@ println("Qual seu objetivo?")
 val reader = Scanner(System.`in`)
 var resposta = reader.nextLine()
 if(resposta.contains("mundo melhor"))
-    println("Venha conosco!")
+    println("Você tem a Mesma Idéia, então venha conosco!")
 
 }
 ```
@@ -33,31 +32,18 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 
 
-
-## Selecione o README que deseja usar
-
-
-
-
-## Recursos para o README
-
-
 ---
 
 
 
+[blog]: https://eademidea.blogspot.com
+[youtube]: https://www.youtube.com/channel/UCfU-p5XrS0W4Kp9-8drMVFg
 
-
-[website]: https://teste.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
+🏡 [blog][website] **|** 
 📺 [youtube][youtube] **|** 
-👔 [linkedin][linkedin]
+
 
