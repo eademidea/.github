@@ -43,7 +43,7 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 #### Rede Sociais!
 
-🏡 [blog][website] **|** 
+🏡 [blog][blog] **|** 
 📺 [youtube][youtube] **|** 
 
 
