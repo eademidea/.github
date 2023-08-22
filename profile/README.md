@@ -3,8 +3,8 @@
 </h1>
 
 
-Eadem Idea é uma organização que tem por objetivo a criação de recursos open source, seja uma biblioteca ou software completo.
-Nossa organização pretende reunir pessoas com a mesma idéia, "colaborar para um mundo melhor".
+Eadem Idea é um movimento opensource com objetivo de integrar novos desenvolvedores (aspirantes a desenvolvedor) e que tem a missão de promover a criação de recursos como bibliotecas e outros softwares.
+Pretendemos ajudar novos programadores com projetos pré definidos e que podem ser melhorados, deste modo a colaboração dentro dos projetos será uma oportunidade do novo programador ter uma noção de como funcionam softwares de ambientes coorporativos.
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre nós 
