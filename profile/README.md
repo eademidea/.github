@@ -13,15 +13,15 @@ Pretendemos ajudar novos programadores com projetos pré definidos e que podem s
 
 ```kotlin
 object **Eadem Idea** {
- val principios = "Tirar do papel idéias e gerar valor."
- val objetivo = "Colaborar para um mundo melhor."
+ val MENSAGEM = "Venha conosco!!!."
+
  val principaisLinguagens = listOf("Java", "Python", "JavaScript") 
 
 println("Qual seu objetivo?")
 val reader = Scanner(System.`in`)
 var resposta = reader.nextLine()
 if(resposta.contains("mundo melhor"))
-    println("Você tem a Mesma Idéia, então venha conosco!")
+    println(MENSAGEM)
 
 }
 ```
